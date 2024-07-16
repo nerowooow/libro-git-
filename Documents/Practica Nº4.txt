@@ -1,0 +1,33 @@
+USE [Practica Nº4]
+
+
+CREATE TABLE [dbo].[Cliente](
+	[DNI] [int] NULL,
+	[Nombre] [nvarchar](50) NULL,
+	[Direccion] [nvarchar](50) NULL,
+	[Ciudad] [nvarchar](50) NULL,
+	[Num. Telef] [int] NULL,
+	[Codigo interno] [int] NULL,
+	[Sexo] [nvarchar](50) NULL,
+	[Nacionalidad] [nvarchar](50) NULL
+) ON [PRIMARY]
+
+
+CREATE TABLE [dbo].[Coche](
+	[Matricula] [nvarchar](50) NULL,
+	[Marca] [nvarchar](50) NULL,
+	[Modelo] [nvarchar](50) NULL,
+	[Color] [nvarchar](50) NULL,
+	[Precio de Venta] [nvarchar](50) NULL,
+	[Año] [int] NULL,
+	[Estado] [nvarchar](50) NULL
+) ON [PRIMARY]
+
+
+CREATE TABLE [dbo].[Revision](
+	[Codigo] [nchar](10) NULL,
+	[Aceite] [nchar](10) NULL,
+	[Filtto] [nchar](10) NULL,
+	[Frenos] [nchar](10) NULL,
+	[Otros] [nchar](10) NULL
+) ON [PRIMARY]

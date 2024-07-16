@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<multipart>
+<productmanifest version="1">
+  <licenseinfolist>
+	  <licenseinfo licenseid="540111125" sourceid="707000" serialtype="1" serialnum="UH02R225KKYFGQS6CJ94VHKMVZU2" language="ES" productfingerprint="V21848795365CC3B459434937D0A7B4108" status="4"  totaldays="0" trialdaysleft="0" launchcount="3" totallaunchcount="0" product="1" regstatus="1" version="2.698" regtype="1" rtovalue="1" activationcode="DC83-1805-4B36-A3F5-3A43" appcontext="Create" dayssincefirstlaunch="65" daysincurrentstate="0"   dayssincelastlaunch="0" >
+		<servercookies>
+			<cookie key="pcuversion" value="13.0.0.659" />
+			<cookie key="country" value="PE" />
+			<cookie key="privacydefault" value="1" />
+		</servercookies>
+	<subscriptioninfo subscriptionid="" classification="" subscriptionremindershow="0" subscriptionreminderdays="0" currentversion="" lastusedversion="" seatcount="0" origin="" created="false" level="0" alreadyexist="false" serialassociated="false"/>
+  </licenseinfo>
+<licenseinfo licenseid="540111147" sourceid="410003" serialtype="8" serialnum="DR23T22JASDAVZUK57RUWCUEGGW8" language="es" productfingerprint="V21848795365CC3B459434937D0A7B4108" status="1"  totaldays="0" trialdaysleft="0" launchcount="1" totallaunchcount="0" product="0" regstatus="0" version="23.1.0.389" regtype="4" rtovalue="15" activationcode="2157-DE95-76D6-4AAE-7226" appcontext="Create" dayssincefirstlaunch="-1" daysincurrentstate="0"   dayssincelastlaunch="-1" >
+		<servercookies>
+		</servercookies>
+	<subscriptioninfo subscriptionid="" classification="" subscriptionremindershow="0" subscriptionreminderdays="0" currentversion="" lastusedversion="" seatcount="0" origin="" created="false" level="0" alreadyexist="false" serialassociated="false"/>
+  </licenseinfo>
+<licenseinfo licenseid="540227504" sourceid="999923" serialtype="15" serialnum="DR23S2256ETA5KZNRQCXXETMRXJA" language="es" productfingerprint="V21848795365CC3B459434937D0A7B4108" status="1"  totaldays="0" trialdaysleft="0" launchcount="1" totallaunchcount="0" product="0" regstatus="0" version="23.1.0.389" regtype="2" rtovalue="15" activationcode="FDEC-F992-5E65-3CDA-9308" appcontext="Create" dayssincefirstlaunch="-1" daysincurrentstate="0"   dayssincelastlaunch="-1" >
+		<servercookies>
+		</servercookies>
+	<subscriptioninfo subscriptionid="" classification="" subscriptionremindershow="0" subscriptionreminderdays="0" currentversion="" lastusedversion="" seatcount="0" origin="" created="false" level="0" alreadyexist="false" serialassociated="false"/>
+  </licenseinfo>
+  </licenseinfolist>
+ </productmanifest>
+<systeminfo version="1" online="true" os_version="10.0.19045.2" arch="X86_64" hwfpid="V21848795365CC3B459434937D0A7B4108" countrycode="PE" autoupdate="true" />
+
+<userinfo version="1" profileid="" companyname="" nickname= "" userscore= "0" />
+
+<request version="3" type="messages">
+<filter type="timestamp" value="0" />
+</request>
+<request version="2" type="message_tracking">
+<messagetracking></messagetracking>
+</request>
+<request version="1" type="ft">
+<pbags>
+<pbag>
+<prop key="70" name="202F2A2328272B23" value="25332E68233E23" />
+<prop key="70" name="302334352F2928" value="7775687668766870737F" />
+<prop key="70" name="252E23252D35332B" value="752476242275" />
+</pbag>
+<pbag>
+<prop key="70" name="202F2A2328272B23" value="332E362533282A3468222A2A" />
+<prop key="70" name="302334352F2928" value="7775687668766877777F" />
+<prop key="70" name="252E23252D35332B" value="22717323" />
+</pbag>
+<pbag>
+<prop key="70" name="202F2A2328272B23" value="2234362533282A3468222A2A" />
+<prop key="70" name="302334352F2928" value="74756877687668757E7F" />
+<prop key="70" name="252E23252D35332B" value="7570772522" />
+</pbag>
+<pbag>
+<prop key="70" name="202F2A2328272B23" value="342B362533282A3468222A2A" />
+<prop key="70" name="302334352F2928" value="74756877687668757E7F" />
+<prop key="70" name="252E23252D35332B" value="70222576" />
+</pbag>
+</pbags>
+</request>
+<request version="3" type="cuhtracking">
+<cuhinfo cuhversion="2.17.698" pcuversion="13.0.0.659" country="PE" privacydefault="1" validmessagelist="" updatefrequency="1" currentcycleviewedmessages="" cuh_msgshown="" cuh_msgnextshow="" firstlaunchdate="1715448242" startdate="1715448242" lastlaunchtimestamp="1721135976" timestamp="1721135977">
+<taskschedulers>
+<taskscheduler taskname="CorelUpdateHelperTask-0E786B00F2CAC1E0760738510D9DF96E" triggertype="One Time" triggertime="943938000" action="C:\Program Files (x86)\Corel\CUH\v2\CUH.exe" argument="-resume" />
+<taskscheduler taskname="CorelUpdateHelperTaskCore" triggertype="Every Day" triggertime="1721135975" action="C:\Program Files (x86)\Corel\CUH\v2\CUH.exe" argument="/t" />
+</taskschedulers>
+<pcus>
+<pcu licenseid="540111147" sourceid="410003" />
+<pcu licenseid="540227504" sourceid="999923" />
+<pcu licenseid="540111125" sourceid="707000" />
+</pcus>
+</cuhinfo>
+</request>
+
+</multipart>

@@ -1,0 +1,163 @@
+07/15/24 08:44:23   
+
+***************** New Log **************************
+
+Start time: 07/15/24 08:44:23
+
+Module: C:\Program Files (x86)\Corel\CUH\v2\CUH.exe
+
+07/15/24 08:44:23   PCU_HD started
+07/15/24 08:44:23   GLHDID started
+07/15/24 08:44:23   MS::Init started
+07/15/24 08:44:23   CIMSGD started
+07/15/24 08:44:23   GLHDID elapsed time: 0.047 seconds
+07/15/24 08:44:23   PCU_HD elapsed time: 0.062 seconds
+07/15/24 08:44:23   MS::CP started
+07/15/24 08:44:23   MS::CP:MD:CPC started
+07/15/24 08:44:23   MS::CP:MD:CPC:MU:VIC started
+07/15/24 08:44:23   MS::CP:MD:CPC:MU:VIC elapsed time: 0.000 seconds
+07/15/24 08:44:23   WPCB:init1 started
+07/15/24 08:44:23   PCU version : 13.0.0.659
+07/15/24 08:44:23   HTTP::CONNECTORG elapsed time: 0.078 seconds
+07/15/24 08:44:23   In IsInternetConnected - strURL=https://mc.corel.com/servlet/MessageCenterServer, Return=true, Reason=0, Error:0, WSAError=0
+07/15/24 08:44:23   MU::CKIT elapsed time: 0.078 seconds
+07/15/24 08:44:23   WPCB:genin started
+07/15/24 08:44:23   WPCB:genin elapsed time: 0.125 seconds
+07/15/24 08:44:23   WPCB:init1 elapsed time: 0.203 seconds
+07/15/24 08:44:23   MU::USI started
+07/15/24 08:44:23   MU::USI:BSI started
+07/15/24 08:44:23   MU::USI:BSI:CICT started
+07/15/24 08:44:23   MU::USI:BSI:CICT elapsed time: 0.000 seconds
+07/15/24 08:44:23   MP::GAP started
+07/15/24 08:44:23   MP::GAP elapsed time: 0.000 seconds
+07/15/24 08:44:23   MU::USI:BSI elapsed time: 0.000 seconds
+07/15/24 08:44:23   MU::USI elapsed time: 0.000 seconds
+07/15/24 08:44:23   MS::CP:MD:CPC elapsed time: 0.250 seconds
+07/15/24 08:44:23   MS::CP elapsed time: 0.265 seconds
+07/15/24 08:44:23   CSL started
+07/15/24 08:44:23   WPCB:init1 started
+07/15/24 08:44:23   PCU version : 13.0.0.659
+07/15/24 08:44:23   WPCB:genin started
+07/15/24 08:44:23   Error, XML file could not be found: C:\ProgramData\Corel\Messages\540111147_410003\en\MessageCache1\Workflow\WorkflowMessages.xml
+07/15/24 08:44:23   WPCB:genin elapsed time: 0.016 seconds
+07/15/24 08:44:23   WPCB:init1 elapsed time: 0.016 seconds
+07/15/24 08:44:23   CSL elapsed time: 0.016 seconds
+07/15/24 08:44:23   CSL started
+07/15/24 08:44:23   WPCB:init1 started
+07/15/24 08:44:23   PCU version : 13.0.0.659
+07/15/24 08:44:23   WPCB:genin started
+07/15/24 08:44:23   Error, XML file could not be found: C:\ProgramData\Corel\Messages\540227504_999923\en\MessageCache1\Workflow\WorkflowMessages.xml
+07/15/24 08:44:23   WPCB:genin elapsed time: 0.016 seconds
+07/15/24 08:44:23   WPCB:init1 elapsed time: 0.016 seconds
+07/15/24 08:44:23   CSL elapsed time: 0.016 seconds
+07/15/24 08:44:23   VA started
+07/15/24 08:44:23   VA elapsed time: 0.000 seconds
+07/15/24 08:44:23   VA started
+07/15/24 08:44:23   VA elapsed time: 0.000 seconds
+07/15/24 08:44:23   VA started
+07/15/24 08:44:23   VA elapsed time: 0.000 seconds
+07/15/24 08:44:23   MD started
+07/15/24 08:44:23   MD:ST started
+07/15/24 08:44:23   MP::GAP started
+07/15/24 08:44:23   MP::GAP elapsed time: 0.000 seconds
+07/15/24 08:44:23   MD:ST elapsed time: 0.000 seconds
+07/15/24 08:44:24   MD elapsed time: 0.719 seconds
+07/15/24 08:44:24   MD:RM started
+07/15/24 08:44:24   MU:RM started
+07/15/24 08:44:24   MU::USI:BSI started
+07/15/24 08:44:24   MU::USI:BSI:CICT started
+07/15/24 08:44:24   MU::USI:BSI:CICT elapsed time: 0.000 seconds
+07/15/24 08:44:24   MP::GAP started
+07/15/24 08:44:24   MP::GAP elapsed time: 0.000 seconds
+07/15/24 08:44:24   MU::USI:BSI elapsed time: 0.000 seconds
+07/15/24 08:44:28   ME:EM started
+07/15/24 08:44:38   DoAUpdt started
+07/15/24 08:44:38   DoAUpdt elapsed time: 0.015 seconds
+07/15/24 08:45:39   DoAUpdt started
+07/15/24 08:45:39   DoAUpdt elapsed time: 0.000 seconds
+07/15/24 08:46:11   DoAUpdt started
+07/15/24 08:46:11   DoAUpdt elapsed time: 0.000 seconds
+07/15/24 08:47:37   Se agotó el tiempo de espera para la operación
+ URL: http://mc.corel.com/futuretense_cs/ccurl/20/685/versatile_icon.png
+07/15/24 08:48:20   No se pudo establecer una conexión con el servidor
+ URL: http://mc.corel.com/futuretense_cs/ccurl/215/199/warning.png
+07/15/24 08:48:20   No se pudo resolver el nombre de servidor ni su dirección
+ URL: http://mc.corel.com/futuretense_cs/ccurl/852/188/workflowdef_v3_4.xml
+07/15/24 08:48:20   No se pudo resolver el nombre de servidor ni su dirección
+ URL: http://mc.corel.com/futuretense_cs/ccurl/955/624/xclose.png
+07/15/24 08:48:20   ME:EM elapsed time: 232.348 seconds
+07/15/24 08:48:20   Message Retrieval Success
+07/15/24 08:48:20   Message cache switched
+07/15/24 08:48:20   MU:RM return value 0
+07/15/24 08:48:20   MU:RM elapsed time: 236.129 seconds
+07/15/24 08:48:20   MD:RM elapsed time: 236.129 seconds
+07/15/24 08:48:20   CTTH:CT started
+07/15/24 08:48:20   CTTH:CT schedule create success
+07/15/24 08:48:20   CTTH:CT elapsed time: 0.031 seconds
+07/15/24 08:48:20   CTTH:CT Success: 1
+07/15/24 08:48:20   CUH: Uninit msgsys!
+07/15/24 08:48:20   MS::RL started
+07/15/24 08:48:20   MD::RL started
+07/15/24 08:48:20   MU:CTT started
+07/15/24 08:48:20   MU:CTT elapsed time: 0.000 seconds
+07/15/24 08:48:20   MD::RL elapsed time: 0.000 seconds
+07/15/24 08:48:20   MS::RL elapsed time: 0.000 seconds
+07/15/24 08:59:23   MS::CP started
+07/15/24 08:59:23   MS::CP:MD:CPC started
+07/15/24 08:59:23   MS::CP:MD:CPC:MU:VIC started
+07/15/24 08:59:23   MS::CP:MD:CPC:MU:VIC elapsed time: 0.000 seconds
+07/15/24 08:59:23   WPCB:init1 started
+07/15/24 08:59:23   PCU version : 13.0.0.659
+07/15/24 08:59:23   HTTP::CONNECTORG elapsed time: 0.031 seconds
+07/15/24 08:59:23   In IsInternetConnected - strURL=https://mc.corel.com/servlet/MessageCenterServer, Return=true, Reason=0, Error:0, WSAError=0
+07/15/24 08:59:23   MU::CKIT elapsed time: 0.031 seconds
+07/15/24 08:59:23   WPCB:genin started
+07/15/24 08:59:23   WPCB:genin elapsed time: 0.047 seconds
+07/15/24 08:59:23   WPCB:init1 elapsed time: 0.078 seconds
+07/15/24 08:59:23   MU::USI started
+07/15/24 08:59:23   MU::USI:BSI started
+07/15/24 08:59:23   MU::USI:BSI:CICT started
+07/15/24 08:59:23   MU::USI:BSI:CICT elapsed time: 0.000 seconds
+07/15/24 08:59:23   MP::GAP started
+07/15/24 08:59:23   MP::GAP elapsed time: 0.000 seconds
+07/15/24 08:59:23   MU::USI:BSI elapsed time: 0.000 seconds
+07/15/24 08:59:23   MU::USI elapsed time: 0.015 seconds
+07/15/24 08:59:23   MS::CP:MD:CPC elapsed time: 0.109 seconds
+07/15/24 08:59:23   MS::CP elapsed time: 0.109 seconds
+07/15/24 08:59:23   CSL started
+07/15/24 08:59:23   WPCB:init1 started
+07/15/24 08:59:23   PCU version : 13.0.0.659
+07/15/24 08:59:23   WPCB:genin started
+07/15/24 08:59:23   Error, XML file could not be found: C:\ProgramData\Corel\Messages\540111147_410003\en\MessageCache1\Workflow\WorkflowMessages.xml
+07/15/24 08:59:23   WPCB:genin elapsed time: 0.031 seconds
+07/15/24 08:59:23   WPCB:init1 elapsed time: 0.031 seconds
+07/15/24 08:59:23   CSL elapsed time: 0.031 seconds
+07/15/24 08:59:23   CSL started
+07/15/24 08:59:23   WPCB:init1 started
+07/15/24 08:59:23   PCU version : 13.0.0.659
+07/15/24 08:59:23   WPCB:genin started
+07/15/24 08:59:23   Error, XML file could not be found: C:\ProgramData\Corel\Messages\540227504_999923\en\MessageCache1\Workflow\WorkflowMessages.xml
+07/15/24 08:59:23   WPCB:genin elapsed time: 0.000 seconds
+07/15/24 08:59:23   WPCB:init1 elapsed time: 0.016 seconds
+07/15/24 08:59:23   CSL elapsed time: 0.016 seconds
+07/15/24 08:59:23   VA started
+07/15/24 08:59:23   VA elapsed time: 0.000 seconds
+07/15/24 08:59:23   VA started
+07/15/24 08:59:23   VA elapsed time: 0.000 seconds
+07/15/24 08:59:23   VA started
+07/15/24 08:59:23   VA elapsed time: 0.000 seconds
+07/15/24 08:59:23   MD started
+07/15/24 08:59:23   MD:ST started
+07/15/24 08:59:23   MP::GAP started
+07/15/24 08:59:23   MP::GAP elapsed time: 0.016 seconds
+07/15/24 08:59:23   MD:ST elapsed time: 0.016 seconds
+07/15/24 08:59:23   MD elapsed time: 0.547 seconds
+07/15/24 08:59:25   CUH: No messages to display! Exiting.
+07/15/24 08:59:25   CTTH:UST No need to update schedule
+07/15/24 08:59:25   CUH: Uninit msgsys!
+07/15/24 08:59:25   MS::RL started
+07/15/24 08:59:25   MD::RL started
+07/15/24 08:59:25   MU:CTT started
+07/15/24 08:59:25   MU:CTT elapsed time: 0.000 seconds
+07/15/24 08:59:25   MD::RL elapsed time: 0.000 seconds
+07/15/24 08:59:25   MS::RL elapsed time: 0.000 seconds

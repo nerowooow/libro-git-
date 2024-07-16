@@ -1,0 +1,14 @@
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\primer proyecto\primer proyecto\bin\Debug\net6.0\primer proyecto.exe
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\primer proyecto\primer proyecto\bin\Debug\net6.0\primer proyecto.deps.json
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\primer proyecto\primer proyecto\bin\Debug\net6.0\primer proyecto.runtimeconfig.json
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\primer proyecto\primer proyecto\bin\Debug\net6.0\primer proyecto.dll
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\primer proyecto\primer proyecto\bin\Debug\net6.0\primer proyecto.pdb
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\primer proyecto\primer proyecto\obj\Debug\net6.0\primer proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\primer proyecto\primer proyecto\obj\Debug\net6.0\primer proyecto.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\primer proyecto\primer proyecto\obj\Debug\net6.0\primer proyecto.AssemblyInfo.cs
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\primer proyecto\primer proyecto\obj\Debug\net6.0\primer proyecto.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\primer proyecto\primer proyecto\obj\Debug\net6.0\primer proyecto.dll
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\primer proyecto\primer proyecto\obj\Debug\net6.0\refint\primer proyecto.dll
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\primer proyecto\primer proyecto\obj\Debug\net6.0\primer proyecto.pdb
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\primer proyecto\primer proyecto\obj\Debug\net6.0\primer proyecto.genruntimeconfig.cache
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\primer proyecto\primer proyecto\obj\Debug\net6.0\ref\primer proyecto.dll

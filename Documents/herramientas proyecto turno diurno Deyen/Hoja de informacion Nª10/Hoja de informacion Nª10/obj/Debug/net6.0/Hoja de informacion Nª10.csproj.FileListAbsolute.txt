@@ -1,0 +1,14 @@
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\Hoja de informacion Nª10\Hoja de informacion Nª10\bin\Debug\net6.0\Hoja de informacion Nª10.exe
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\Hoja de informacion Nª10\Hoja de informacion Nª10\bin\Debug\net6.0\Hoja de informacion Nª10.deps.json
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\Hoja de informacion Nª10\Hoja de informacion Nª10\bin\Debug\net6.0\Hoja de informacion Nª10.runtimeconfig.json
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\Hoja de informacion Nª10\Hoja de informacion Nª10\bin\Debug\net6.0\Hoja de informacion Nª10.dll
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\Hoja de informacion Nª10\Hoja de informacion Nª10\bin\Debug\net6.0\Hoja de informacion Nª10.pdb
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\Hoja de informacion Nª10\Hoja de informacion Nª10\obj\Debug\net6.0\Hoja de informacion Nª10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\Hoja de informacion Nª10\Hoja de informacion Nª10\obj\Debug\net6.0\Hoja de informacion Nª10.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\Hoja de informacion Nª10\Hoja de informacion Nª10\obj\Debug\net6.0\Hoja de informacion Nª10.AssemblyInfo.cs
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\Hoja de informacion Nª10\Hoja de informacion Nª10\obj\Debug\net6.0\Hoja de informacion Nª10.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\Hoja de informacion Nª10\Hoja de informacion Nª10\obj\Debug\net6.0\Hoja de informacion Nª10.dll
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\Hoja de informacion Nª10\Hoja de informacion Nª10\obj\Debug\net6.0\refint\Hoja de informacion Nª10.dll
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\Hoja de informacion Nª10\Hoja de informacion Nª10\obj\Debug\net6.0\Hoja de informacion Nª10.pdb
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\Hoja de informacion Nª10\Hoja de informacion Nª10\obj\Debug\net6.0\Hoja de informacion Nª10.genruntimeconfig.cache
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\Hoja de informacion Nª10\Hoja de informacion Nª10\obj\Debug\net6.0\ref\Hoja de informacion Nª10.dll

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding= "utf-8" ?><multipart><response version="3" type="messages" status="redirect">
+<redirects>
+<redirect url="https://mc.corel.com/servlet/MCSatellite?pagename=IPM/RequestEngine/GetIPMContent_V3&amp;sourceId1=707000&amp;licenseId1=540111125&amp;language=ES&amp;country=PE&amp;timestamp=0" licenseid="540111125" sourceid="707000"/>
+<redirect url="https://mc.corel.com/servlet/MCSatellite?pagename=IPM/RequestEngine/GetIPMContent_V3&amp;sourceId1=410003&amp;licenseId1=540111147&amp;language=es&amp;country=PE&amp;timestamp=0" licenseid="540111147" sourceid="410003"/>
+<redirect url="https://mc.corel.com/servlet/MCSatellite?pagename=IPM/RequestEngine/GetIPMContent_V3&amp;sourceId1=999923&amp;licenseId1=540227504&amp;language=es&amp;country=PE&amp;timestamp=0" licenseid="540227504" sourceid="999923"/>
+</redirects>
+</response>
+<response version="2" type="message_tracking" requestid="19697101399" status="OK"/><trackingids ibrtrackingid="0" trialtrackingid="0"/><servercookies><cookie key="country" value="PE"/><cookie key="poffer" value=""/><cookie key="terminated" value=""/><cookie key="poffer1" value=""/><cookie key="privacydefault" value="1"/></servercookies></multipart>

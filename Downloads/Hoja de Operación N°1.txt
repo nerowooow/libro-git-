@@ -1,0 +1,138 @@
+/*Console.WriteLine("          HOJA DE OPERACION");
+Console.WriteLine("NOMBRE: BAYRON MYLES ORTEGA REYNA");
+Console.WriteLine("Semestre: III         Turno:Nocturno");
+Console.WriteLine("Profesor: Eduar Apaza Machaca");
+Console.WriteLine("Unidad Didáctica: Herramientas de Desarrollo de software");
+Console.WriteLine();
+Console.WriteLine("EJERCICIO N°1");
+
+int num1;
+int num2;
+int num3;
+double prom;
+Console.WriteLine("Ingrese el primer numero: ");
+num1 = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Ingrese el segundo numero: ");
+num2 = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Ingrese el tercer numero: ");
+num3 = Convert.ToInt32(Console.ReadLine());
+prom = (num1 + num2 + num3) / 3;
+Console.WriteLine("La promedio de los 3 numeros es: " + prom);
+*/
+
+/*Console.WriteLine("EJERCICIO N°2");
+
+int dolares;
+double soles;
+Console.WriteLine("Ingrese monto en dolar: ");
+dolares = Convert.ToInt32(Console.ReadLine());
+soles = dolares * 3.72;
+Console.WriteLine("El monto en soles es: "+soles);
+*/
+
+/*Console.WriteLine("EJERCICIO N°3");
+
+int dolar;
+double soles;
+Console.WriteLine("Ingrese monto en soles: ");
+dolar = Convert.ToInt32(Console.ReadLine());
+soles = dolar / 3.71;
+Console.WriteLine("El monto en dolares es: " + soles);
+*/
+
+/*Console.WriteLine("EJERCICIO N°4");
+
+int x;
+double res_a;
+Console.WriteLine("Ingrese un numero");
+x = Convert.ToInt32(Console.ReadLine());
+res_a = x*(x +  1)/2;
+Console.WriteLine("La suma es: " + res_a);
+*/
+
+/*Console.WriteLine("EJERCICIO N°5");
+
+double horastrabajadas, costedehoras, remuneracion;
+Console.WriteLine("Ingrese las horas trabajadas");
+horastrabajadas = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Ingrese el costo por horas");
+costedehoras = Convert.ToInt32(Console.ReadLine());
+remuneracion = horastrabajadas * costedehoras;
+Console.WriteLine("Su remuneracion es: " + remuneracion);
+*/
+
+/*Console.WriteLine("EJERCICIO N°6");
+
+string nombre;
+double precio, cantidad, igv, impuesto, subtotal, total;
+Console.WriteLine("Ingrese el nombre del producto");
+nombre = Console.ReadLine();
+Console.WriteLine("Ingrese la cantidad");
+cantidad = Convert.ToDouble(Console.ReadLine());
+Console.WriteLine("Ingrese el precio");
+precio = Convert.ToDouble(Console.ReadLine());
+Console.WriteLine("Ingrese el impuesto");
+impuesto = Convert.ToDouble(Console.ReadLine());
+subtotal = precio * cantidad;
+igv = subtotal * impuesto / 100;
+total = subtotal + igv;
+Console.WriteLine("Producto: " + nombre);
+Console.WriteLine("Cantidad: " + cantidad);
+Console.WriteLine("Precio: " + precio);
+Console.WriteLine("SubTotal: " + subtotal);
+Console.WriteLine("IGV {0}%: {1}", impuesto, igv);
+Console.WriteLine("TOTAL:{0}",total);
+*/
+
+/*Console.WriteLine("EJERCICIO N°7");
+
+int divisor;
+int dividendo;
+int cociente;
+int residuo;
+Console.WriteLine("Ingrese el dividendo:");
+dividendo = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Ingrese el divisor:");
+divisor = Convert.ToInt32(Console.ReadLine());
+cociente = dividendo / divisor;
+residuo = dividendo % divisor;
+Console.WriteLine("La division entre {0} entre {1} da un cociente de {2} y en un residuo {3}", dividendo, divisor, cociente,residuo);
+*/
+
+/*Console.WriteLine("EJERCICIO N°8");
+
+int payaso, muñeco;
+double precio_muñeco, precio_payaso, total;
+Console.WriteLine("Ingrese la cantidad de payasos vendidos");
+payaso = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Ingrese la cantidad de muñecas vendidadas");
+muñeco = Convert.ToInt32(Console.ReadLine());
+precio_payaso = payaso * 112;
+precio_muñeco = muñeco * 75;
+total = precio_muñeco + precio_payaso;
+Console.WriteLine("El precio del paquete es: {0} Gramos", total);
+*/
+
+/*Console.WriteLine("EJERCICIO N°9");
+
+int numero;
+int resultado;
+Console.WriteLine("Ingrese el numero entero:");
+numero = Convert.ToInt32(Console.ReadLine());
+resultado = ((numero + 3) * 4) / 2;
+resultado *= resultado;
+Console.WriteLine("El resultado de la operacion es: {0}", resultado);
+*/
+
+/*Console.WriteLine("EJERCICIO N°10");
+
+int gb;
+int mb;
+int kb;
+Console.WriteLine("Ingrese la capacidad del USB en GB:");
+gb = Convert.ToInt32(Console.ReadLine());
+mb = gb * 1024;
+kb = mb * 1024;
+Console.WriteLine("{0}GB son {1}MB", gb, mb);
+Console.WriteLine("{0}GB son {1}KB", gb, kb);
+*/

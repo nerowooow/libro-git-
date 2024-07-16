@@ -1,0 +1,47 @@
+    name                                    : Intel(R) UHD Graphics 620
+    VendorId                                : 32902
+    DeviceId                                : 22807
+    SubSysId                                : 136056872
+    Revision                                : 7
+    DedicatedVideoMemory                    : 134217728
+    DedicatedSystemMemory                   : 0
+    SharedSystemMemory                      : 8527466496
+    MemoryBudget                            : 7832657716
+    AdapterLuid.LowPart                     : 77266
+    AdapterLuid.HighPart                    : 0
+    Flags                                   : 0
+        DoublePrecisionFloatShaderOps           : yes
+        ConservativeRasterizationTier           : 3
+        CrossNodeSharingTier                    : 0
+        ResourceBindingTier                     : 3
+        ResourceHeapTier                        : 2
+        TiledResourcesTier                      : 3
+        NodeIndex                               : 0
+        TileBasedRenderer                       : no
+        UMA                                     : yes
+        CacheCoherentUMA                        : yes
+        feature level                           : 0x00009100
+        feature level                           : 0x00009200
+        feature level                           : 0x00009300
+        feature level                           : 0x0000a000
+        feature level                           : 0x0000a100
+        feature level                           : 0x0000b000
+        feature level                           : 0x0000b100
+        feature level                           : 0x0000c000
+        feature level                           : 0x0000c100
+        MaxSupportedFeatureLevel                : 0x0000c100
+        HighestShaderModel                      : 0x60
+        WaveOps                                 : yes
+        WaveLaneCountMin                        : 16
+        WaveLaneCountMax                        : 16
+        TotalLaneCount                          : 384
+        ExpandedComputeResourceStates           : yes
+        Int64ShaderOps                          : yes
+        RootSignature.HighestVersion            : 0x2
+    Intel-specific info:
+        Architecture                            : Kabylake
+        EU Count                                : 24
+        Package TDP                             : 15
+        Max Fill Rate (pixels/clock)            : 8
+        Max Frequency                           : 1150
+        Min Frequency                           : 300

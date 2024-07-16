@@ -1,0 +1,25 @@
+2024-03-25-02:18:26.839 a. m. System.ArgumentException: No se puede eliminar el árbol de subclave porque no existe la subclave.
+   en System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   en Microsoft.Win32.RegistryKey.DeleteSubKeyTree(String subkey, Boolean throwOnMissingSubKey)
+   en Microsoft.Win32.RegistryKey.DeleteSubKeyTree(String subkey)
+   en Squirrel.MeetingAddinInstaller.<InstallMeetingAddinAsync>d__15.MoveNext()
+2024-03-25-02:18:26.839 a. m. StagedAppDirectory does not exist. Using Current
+2024-03-25-02:18:26.855 a. m. There is no version.txt. Falling back to getting version from folder name
+2024-03-25-02:18:26.855 a. m. Version: 1.0.21105.1; addinPackageDirectory: 1.0.21105.1
+2024-03-25-02:18:26.871 a. m. .dead exists: False
+2024-03-25-02:18:26.871 a. m. before cleanup unused versions
+2024-03-25-02:18:26.964 a. m. Addin directory exists. Copy was successful
+2024-03-25-02:18:26.964 a. m. COM registration. Regsvr Path: C:\Windows\system32\regsvr32.exe, Arguments: /s /n /i:user "C:\Users\DELL\AppData\Local\Microsoft\TeamsMeetingAddin\1.0.21105.1\x64\Microsoft.Teams.AddinLoader.dll"
+2024-03-25-02:18:27.120 a. m. Version 1.0.21105.1 of the meeting add-in is now installed
+2024-04-30-08:36:50.563 p. m. System.ArgumentException: No se puede eliminar el árbol de subclave porque no existe la subclave.
+   en System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   en Microsoft.Win32.RegistryKey.DeleteSubKeyTree(String subkey, Boolean throwOnMissingSubKey)
+   en Microsoft.Win32.RegistryKey.DeleteSubKeyTree(String subkey)
+   en Squirrel.MeetingAddinInstaller.<InstallMeetingAddinAsync>d__15.MoveNext()
+2024-04-30-08:36:50.577 p. m. There is no version.txt. Falling back to getting version from folder name
+2024-04-30-08:36:50.578 p. m. Version: 1.0.24054.1; addinPackageDirectory: 1.0.24054.1
+2024-04-30-08:36:50.580 p. m. .dead exists: False
+2024-04-30-08:36:50.581 p. m. before cleanup unused versions
+2024-04-30-08:36:50.648 p. m. Addin directory exists. Copy was successful
+2024-04-30-08:36:50.650 p. m. COM registration. Regsvr Path: C:\Windows\system32\regsvr32.exe, Arguments: /s /n /i:user "C:\Users\DELL\AppData\Local\Microsoft\TeamsMeetingAddin\1.0.24054.1\x64\Microsoft.Teams.AddinLoader.dll"
+2024-04-30-08:36:50.961 p. m. Version 1.0.24054.1 of the meeting add-in is now installed

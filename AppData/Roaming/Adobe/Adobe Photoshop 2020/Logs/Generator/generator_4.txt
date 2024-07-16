@@ -1,0 +1,53 @@
+Log file created on Wed Jun 26 2024 11:58:42 GMT-0500 (Hora est. Pacífico, Sudamérica)
+
+[info:core 11:58:42.178 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:114:22] Launching with config:
+{}
+[info:core 11:58:42.178 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:116:26] provided PS information:
+ version 21.0
+ pathC:\Program Files\Adobe\Adobe Photoshop 2020
+
+[info:core 11:58:42.183 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:237:30] Detected Photoshop version: 21.0.0
+[warning:app 11:58:42.204 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\app.js:217:29] No viable plugins were found in 'C:\Program Files\Adobe\Adobe Photoshop 2020\Plug-ins\Generator'
+[info:core 11:58:42.204 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:1926:26] Loading plugin: generator-assets (v2.9.13) from: C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate
+[warning:core 11:58:42.982 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:915:26] WARNING the imageChanged event is expensive, please consider NOT listening to it
+[info:core 11:58:42.983 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:1942:26] Plugin loaded: generator-assets
+[info:core 11:58:42.984 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:1926:26] Loading plugin: crema (v3.2.12) from: C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\crema.generate
+[info:core 11:58:44.100 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:1942:26] Plugin loaded: crema
+[warning:core 11:58:44.218 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:915:26] WARNING the imageChanged event is expensive, please consider NOT listening to it
+[warning:crema 11:58:44.231 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\crema.generate\node_modules\shared\LogUtils\index.js:61:21] user settings file could not be created
+[warning:generator-assets 11:58:44.643 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:336:26] No Open Document
+[warning:crema 11:58:44.954 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\crema.generate\node_modules\generator-assets\lib\documentmanager.js:336:26] No Open Document
+[warning:core 11:58:45.267 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:133:30] Photoshop error { id: 15,
+  body: 'Error 1302: No existe ese elemento\rLínea: 8\r->  var desc = app.getCustomOptions(params.key);' }
+[warning:core 11:58:45.269 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:378:26] Error in JSX file with params ./jsx/getCustomOptions.jsx { key: 'crema' } Error 1302: No existe ese elementoLínea: 8->  var desc = app.getCustomOptions(params.key);
+[warning:generator-assets 12:20:22.410 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:554:34] Unhandled property in raw change: transform { xx: 1, xy: 0, yx: 0, yy: 1, tx: 319, ty: 0 }
+[warning:generator-assets 12:20:29.377 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:554:34] Unhandled property in raw change: transform { xx: -1, xy: 0, yx: 0, yy: 1, tx: 926, ty: 0 }
+[warning:generator-assets 12:21:49.361 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:554:34] Unhandled property in raw change: transform { xx: 1.365, xy: 0, yx: 0, yy: 2.68782, tx: -115.495, ty: -1454.11 }
+[error:generator-assets 12:23:29.875 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:890:34] Error updating property file pract4.psd TypeError: Path must be a string. Received undefined
+    at assertPath (path.js:28:11)
+    at Object.basename (path.js:820:5)
+    at Document._setFile (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:312:27)
+    at Document._updateFile (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:332:18)
+    at Document._applyChange (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:800:39)
+    at DocumentManager._processNextChange (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:306:32)
+    at DocumentManager._handleImageChanged (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:541:22)
+    at emitOne (events.js:121:20)
+    at Generator.emit (events.js:211:7)
+    at Generator.emitPhotoshopEvent (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:950:26)
+[warning:generator-assets 12:23:29.875 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:308:26] Unable to apply change to document
+[error:generator-assets 12:23:30.219 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:890:34] Error updating property file C:\Users\DELL\Downloads\pract4.psd TypeError: Path must be a string. Received undefined
+    at assertPath (path.js:28:11)
+    at Object.basename (path.js:820:5)
+    at Document._setFile (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:312:27)
+    at Document._updateFile (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:332:18)
+    at Document._applyChange (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:800:39)
+    at DocumentManager._processNextChange (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:306:32)
+    at DocumentManager._handleImageChanged (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:541:22)
+    at emitOne (events.js:121:20)
+    at Generator.emit (events.js:211:7)
+    at Generator.emitPhotoshopEvent (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:950:26)
+[warning:generator-assets 12:23:30.219 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:308:26] Unable to apply change to document
+[warning:core 12:23:31.081 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:133:30] Photoshop error Pipe read error: Error: EPIPE: broken pipe, read
+[info:core 12:23:31.081 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:128:30] Photoshop connection closed
+[info:core 12:23:31.081 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:128:30] Photoshop connection closed
+[error:app 12:23:32.097 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\app.js:125:17] Exiting with code 0: Generator close event

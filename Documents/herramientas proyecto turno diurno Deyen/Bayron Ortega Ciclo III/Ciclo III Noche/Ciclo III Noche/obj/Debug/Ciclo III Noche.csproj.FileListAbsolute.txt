@@ -1,0 +1,10 @@
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\Bayron Ortega Ciclo III\Ciclo III Noche\Ciclo III Noche\bin\Debug\Ciclo III Noche.exe.config
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\Bayron Ortega Ciclo III\Ciclo III Noche\Ciclo III Noche\bin\Debug\Ciclo III Noche.exe
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\Bayron Ortega Ciclo III\Ciclo III Noche\Ciclo III Noche\bin\Debug\Ciclo III Noche.pdb
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\Bayron Ortega Ciclo III\Ciclo III Noche\Ciclo III Noche\obj\Debug\Ciclo III Noche.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\Bayron Ortega Ciclo III\Ciclo III Noche\Ciclo III Noche\obj\Debug\Ciclo_III_Noche.Form1.resources
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\Bayron Ortega Ciclo III\Ciclo III Noche\Ciclo III Noche\obj\Debug\Ciclo_III_Noche.Properties.Resources.resources
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\Bayron Ortega Ciclo III\Ciclo III Noche\Ciclo III Noche\obj\Debug\Ciclo III Noche.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\Bayron Ortega Ciclo III\Ciclo III Noche\Ciclo III Noche\obj\Debug\Ciclo III Noche.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\Bayron Ortega Ciclo III\Ciclo III Noche\Ciclo III Noche\obj\Debug\Ciclo III Noche.exe
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\Bayron Ortega Ciclo III\Ciclo III Noche\Ciclo III Noche\obj\Debug\Ciclo III Noche.pdb

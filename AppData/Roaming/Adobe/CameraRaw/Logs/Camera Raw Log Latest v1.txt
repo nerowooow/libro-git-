@@ -1,0 +1,353 @@
+cr_sdk_initialize: Adobe Photoshop Camera Raw 12.2 (Windows), version 12.2x386, 64-bit, Release
+gDNGMaxSIMD: 3
+Scalable memory pool allocator: yes
+TBB threading: no
+PatchMatch initialized (version 4.0.0.0). Using 8 threads.
+CPU: Intel(R) Core(TM) i7-8650U CPU @ 1.90GHz
+OS: 10.0.19041.4406
+MPProcessorCount (hyperthreading = false): 4
+MPProcessorCount (hyperthreading = true): 8
+MPThreadCount: 8
+std::thread::hardware_concurrency: 8
+AVX support: yes
+AVX2 support: yes
+AVX512 support: no
+System physical RAM: 16 GB
+Initialize GPU system
+Read GPU config
+Safe load GPU
+Native16BitShaderOpsSupported: YES
+SupportsShaderModel_6_2_OrHigher: YES
+Supports FP16 for DX on WML: YES
+    name                                    : Intel(R) UHD Graphics 620
+    VendorId                                : 32902
+    DeviceId                                : 22807
+    SubSysId                                : 136056872
+    Revision                                : 7
+    DedicatedVideoMemory                    : 134217728
+    DedicatedSystemMemory                   : 0
+    SharedSystemMemory                      : 8527466496
+    MemoryBudget                            : 7832657716
+    AdapterLuid.LowPart                     : 77266
+    AdapterLuid.HighPart                    : 0
+    Flags                                   : 0
+        DoublePrecisionFloatShaderOps           : yes
+        ConservativeRasterizationTier           : 3
+        CrossNodeSharingTier                    : 0
+        ResourceBindingTier                     : 3
+        ResourceHeapTier                        : 2
+        TiledResourcesTier                      : 3
+        NodeIndex                               : 0
+        TileBasedRenderer                       : no
+        UMA                                     : yes
+        CacheCoherentUMA                        : yes
+        feature level                           : 0x00009100
+        feature level                           : 0x00009200
+        feature level                           : 0x00009300
+        feature level                           : 0x0000a000
+        feature level                           : 0x0000a100
+        feature level                           : 0x0000b000
+        feature level                           : 0x0000b100
+        feature level                           : 0x0000c000
+        feature level                           : 0x0000c100
+        MaxSupportedFeatureLevel                : 0x0000c100
+        HighestShaderModel                      : 0x60
+        WaveOps                                 : yes
+        WaveLaneCountMin                        : 16
+        WaveLaneCountMax                        : 16
+        TotalLaneCount                          : 384
+        ExpandedComputeResourceStates           : yes
+        Int64ShaderOps                          : yes
+        RootSignature.HighestVersion            : 0x2
+    Intel-specific info:
+        Architecture                            : Kabylake
+        EU Count                                : 24
+        Package TDP                             : 15
+        Max Fill Rate (pixels/clock)            : 8
+        Max Frequency                           : 1150
+        Min Frequency                           : 300
+Loaded GPU system: DirectX
+GPU primary driver version: 31.0.101.2127
+GPU device count: 1
+GPU device names: Intel(R) UHD Graphics 620
+GPU3 white list: no
+GPU3 black list: no
+GPU3 prev digest: A8436ACC4C6270E54588255E8911FF2B
+GPU3 new digest: A8436ACC4C6270E54588255E8911FF2B
+Need to run gpu self tests : False.
+GPU Init Status (part 1): I2_GPU2
+GPU3 Hard Status Result (part 1): unknown
+GPU3 Soft Status Result (part 1): success
+Intel(R) UHD Graphics 620: Building compute pipeline state (1/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (2/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (3/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (4/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (5/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (6/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (7/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (8/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (9/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (10/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (11/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (12/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (13/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (14/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (15/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (16/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (17/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (18/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (19/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (20/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (21/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (22/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (23/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (24/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (25/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (26/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (27/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (28/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (29/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (30/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (31/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (32/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (33/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (34/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (35/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (36/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (37/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (38/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (39/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (40/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (41/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (42/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (43/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (44/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (45/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (46/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (47/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (48/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (49/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (50/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (51/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (52/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (53/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (54/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (55/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (56/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (57/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (58/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (59/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (60/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (61/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (62/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (63/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (64/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (65/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (66/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (67/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (68/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (69/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (70/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (71/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (72/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (73/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (74/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (75/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (76/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (77/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (78/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (79/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (80/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (81/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (82/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (83/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (84/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (85/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (86/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (87/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (88/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (89/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (90/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (91/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (92/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (93/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (94/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (95/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (96/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (97/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (98/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (99/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (100/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (101/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (102/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (103/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (104/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (105/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (106/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (107/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (108/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (109/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (110/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (111/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (112/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (113/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (114/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (115/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (116/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (117/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (118/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (119/264)
+Intel Compiler: yes
+Intel Compiler Version: 1900.4
+Intel Compiler Build Date: 20190417
+Intel(R) UHD Graphics 620: Building compute pipeline state (120/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (121/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (122/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (123/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (124/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (125/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (126/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (127/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (128/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (129/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (130/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (131/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (132/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (133/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (134/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (135/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (136/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (137/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (138/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (139/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (140/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (141/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (142/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (143/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (144/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (145/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (146/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (147/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (148/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (149/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (150/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (151/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (152/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (153/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (154/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (155/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (156/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (157/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (158/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (159/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (160/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (161/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (162/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (163/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (164/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (165/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (166/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (167/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (168/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (169/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (170/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (171/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (172/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (173/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (174/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (175/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (176/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (177/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (178/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (179/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (180/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (181/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (182/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (183/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (184/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (185/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (186/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (187/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (188/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (189/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (190/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (191/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (192/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (193/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (194/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (195/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (196/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (197/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (198/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (199/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (200/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (201/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (202/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (203/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (204/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (205/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (206/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (207/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (208/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (209/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (210/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (211/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (212/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (213/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (214/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (215/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (216/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (217/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (218/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (219/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (220/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (221/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (222/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (223/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (224/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (225/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (226/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (227/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (228/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (229/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (230/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (231/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (232/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (233/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (234/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (235/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (236/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (237/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (238/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (239/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (240/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (241/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (242/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (243/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (244/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (245/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (246/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (247/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (248/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (249/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (250/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (251/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (252/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (253/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (254/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (255/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (256/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (257/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (258/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (259/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (260/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (261/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (262/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (263/264)
+Intel(R) UHD Graphics 620: Building compute pipeline state (264/264)
+Intel(R) UHD Graphics 620: Finished building compute pipeline states.
+GPU Init Status (part 2): I3_GPU3
+GPU3 Hard Status Result (part 2): success
+GPU3 Soft Status Result (part 2): success
+Terminate GPU system
+cr_sdk_terminate

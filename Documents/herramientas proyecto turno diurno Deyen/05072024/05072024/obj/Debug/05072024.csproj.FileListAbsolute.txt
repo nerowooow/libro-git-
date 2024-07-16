@@ -1,0 +1,12 @@
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\05072024\05072024\obj\Debug\05072024.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\05072024\05072024\obj\Debug\_05072024.Form1.resources
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\05072024\05072024\obj\Debug\_05072024.Properties.Resources.resources
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\05072024\05072024\obj\Debug\05072024.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\05072024\05072024\obj\Debug\05072024.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\05072024\05072024\bin\Debug\05072024.exe.config
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\05072024\05072024\bin\Debug\05072024.exe
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\05072024\05072024\bin\Debug\05072024.pdb
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\05072024\05072024\obj\Debug\05072024.exe
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\05072024\05072024\obj\Debug\05072024.pdb
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\05072024\05072024\obj\Debug\_05072024.Form2.resources
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\05072024\05072024\obj\Debug\_05072024.Arreglos.resources

@@ -1,0 +1,97 @@
+07/16/24 08:19:36   
+
+***************** New Log **************************
+
+Start time: 07/16/24 08:19:36
+
+Module: C:\Program Files (x86)\Corel\CUH\v2\CUH.exe
+
+07/16/24 08:19:36   PCU_HD started
+07/16/24 08:19:36   GLHDID started
+07/16/24 08:19:36   MS::Init started
+07/16/24 08:19:36   CIMSGD started
+07/16/24 08:19:36   CIMSGD elapsed time: 0.016 seconds
+07/16/24 08:19:36   MS::Init elapsed time: 0.017 seconds
+07/16/24 08:19:36   CUH: Init msgsys!
+07/16/24 08:19:36   CUH launched with /t or -t mode!
+07/16/24 08:19:36   MS::CP started
+07/16/24 08:19:36   MS::CP:MD:CPC started
+07/16/24 08:19:36   MS::CP:MD:CPC:MU:VIC started
+07/16/24 08:19:36   MS::CP:MD:CPC:MU:VIC elapsed time: 0.000 seconds
+07/16/24 08:19:36   WPCB:init1 started
+07/16/24 08:19:36   PCU version : 13.0.0.659
+07/16/24 08:19:36   GLHDID elapsed time: 0.092 seconds
+07/16/24 08:19:36   PCU_HD elapsed time: 0.100 seconds
+07/16/24 08:19:36   HTTP::CONNECTORG elapsed time: 0.050 seconds
+07/16/24 08:19:36   In IsInternetConnected - strURL=https://mc.corel.com/servlet/MessageCenterServer, Return=true, Reason=0, Error:0, WSAError=0
+07/16/24 08:19:36   MU::CKIT elapsed time: 0.067 seconds
+07/16/24 08:19:36   WPCB:genin started
+07/16/24 08:19:36   WPCB:genin elapsed time: 0.183 seconds
+07/16/24 08:19:36   WPCB:init1 elapsed time: 0.249 seconds
+07/16/24 08:19:36   MU::USI started
+07/16/24 08:19:36   MU::USI:BSI started
+07/16/24 08:19:36   MU::USI:BSI:CICT started
+07/16/24 08:19:36   MU::USI:BSI:CICT elapsed time: 0.000 seconds
+07/16/24 08:19:36   MP::GAP started
+07/16/24 08:19:36   MP::GAP elapsed time: 0.000 seconds
+07/16/24 08:19:36   MU::USI:BSI elapsed time: 0.000 seconds
+07/16/24 08:19:36   MU::USI elapsed time: 0.000 seconds
+07/16/24 08:19:36   MS::CP:MD:CPC elapsed time: 0.266 seconds
+07/16/24 08:19:36   MS::CP elapsed time: 0.283 seconds
+07/16/24 08:19:36   CSL started
+07/16/24 08:19:36   WPCB:init1 started
+07/16/24 08:19:36   PCU version : 13.0.0.659
+07/16/24 08:19:36   WPCB:genin started
+07/16/24 08:19:36   Error, XML file could not be found: C:\ProgramData\Corel\Messages\540111147_410003\en\MessageCache1\Workflow\WorkflowMessages.xml
+07/16/24 08:19:36   WPCB:genin elapsed time: 0.031 seconds
+07/16/24 08:19:36   WPCB:init1 elapsed time: 0.031 seconds
+07/16/24 08:19:36   CSL elapsed time: 0.031 seconds
+07/16/24 08:19:36   CSL started
+07/16/24 08:19:36   WPCB:init1 started
+07/16/24 08:19:36   PCU version : 13.0.0.659
+07/16/24 08:19:36   WPCB:genin started
+07/16/24 08:19:36   Error, XML file could not be found: C:\ProgramData\Corel\Messages\540227504_999923\en\MessageCache1\Workflow\WorkflowMessages.xml
+07/16/24 08:19:36   WPCB:genin elapsed time: 0.000 seconds
+07/16/24 08:19:36   WPCB:init1 elapsed time: 0.014 seconds
+07/16/24 08:19:36   CSL elapsed time: 0.030 seconds
+07/16/24 08:19:36   VA started
+07/16/24 08:19:36   VA elapsed time: 0.000 seconds
+07/16/24 08:19:36   VA started
+07/16/24 08:19:36   VA elapsed time: 0.000 seconds
+07/16/24 08:19:36   VA started
+07/16/24 08:19:36   VA elapsed time: 0.000 seconds
+07/16/24 08:19:36   MD started
+07/16/24 08:19:36   MD:ST started
+07/16/24 08:19:36   MP::GAP started
+07/16/24 08:19:36   MP::GAP elapsed time: 0.000 seconds
+07/16/24 08:19:36   MD:ST elapsed time: 0.016 seconds
+07/16/24 08:19:37   MD elapsed time: 0.848 seconds
+07/16/24 08:19:37   MD:RM started
+07/16/24 08:19:37   MU:RM started
+07/16/24 08:19:37   MU::USI:BSI started
+07/16/24 08:19:37   MU::USI:BSI:CICT started
+07/16/24 08:19:37   MU::USI:BSI:CICT elapsed time: 0.000 seconds
+07/16/24 08:19:37   MP::GAP started
+07/16/24 08:19:37   MP::GAP elapsed time: 0.001 seconds
+07/16/24 08:19:37   MU::USI:BSI elapsed time: 0.017 seconds
+07/16/24 08:19:38   ME:EM started
+07/16/24 08:19:40   DoAUpdt started
+07/16/24 08:19:40   DoAUpdt elapsed time: 0.016 seconds
+07/16/24 08:20:11   DoAUpdt started
+07/16/24 08:20:11   DoAUpdt elapsed time: 0.000 seconds
+07/16/24 08:20:30   DoAUpdt started
+07/16/24 08:20:30   DoAUpdt elapsed time: 0.000 seconds
+07/16/24 08:20:47   ME:EM elapsed time: 69.049 seconds
+07/16/24 08:20:47   Message Retrieval Success
+07/16/24 08:20:47   Message cache switched
+07/16/24 08:20:47   MU:RM return value 0
+07/16/24 08:20:47   MU:RM elapsed time: 70.124 seconds
+07/16/24 08:20:47   MD:RM elapsed time: 70.124 seconds
+07/16/24 08:20:47   CTTH:UST No need to update schedule
+07/16/24 08:20:47   CUH: Uninit msgsys!
+07/16/24 08:20:47   MS::RL started
+07/16/24 08:20:47   MD::RL started
+07/16/24 08:20:47   MU:CTT started
+07/16/24 08:20:47   MU:CTT elapsed time: 0.000 seconds
+07/16/24 08:20:47   MD::RL elapsed time: 0.000 seconds
+07/16/24 08:20:47   MS::RL elapsed time: 0.016 seconds

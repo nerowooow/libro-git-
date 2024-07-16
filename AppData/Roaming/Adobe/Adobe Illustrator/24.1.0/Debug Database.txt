@@ -1,0 +1,9 @@
+CodeProfiler_AutoStart	false	false
+CodeProfiler_InitialVolume	5	5
+DVA_syncWindowEnablement	false	false
+Show Windows Console	false	false
+drawbotagm::MaxThreads(-1:half,0:all)	-1	-1
+drawbotagm::MinThreadHeight	50	50
+drawbotagm::OptimizeIntersectedPaths	false	false
+drawbotagm::VisualizeThreads	false	false
+dvaworkspace.FrameAndPanelClipOSChildren	false	false

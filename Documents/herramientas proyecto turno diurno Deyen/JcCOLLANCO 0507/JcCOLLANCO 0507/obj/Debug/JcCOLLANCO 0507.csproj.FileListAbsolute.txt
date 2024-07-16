@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\JcCOLLANCO 0507\JcCOLLANCO 0507\obj\Debug\JcCOLLANCO 0507.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\JcCOLLANCO 0507\JcCOLLANCO 0507\obj\Debug\JcCOLLANCO_0507.Form1.resources
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\JcCOLLANCO 0507\JcCOLLANCO 0507\obj\Debug\JcCOLLANCO_0507.Properties.Resources.resources
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\JcCOLLANCO 0507\JcCOLLANCO 0507\obj\Debug\JcCOLLANCO 0507.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\JcCOLLANCO 0507\JcCOLLANCO 0507\obj\Debug\JcCOLLANCO 0507.csproj.CoreCompileInputs.cache

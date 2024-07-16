@@ -1,0 +1,79 @@
+07/15/24 09:48:20   
+
+***************** New Log **************************
+
+Start time: 07/15/24 09:48:20
+
+Module: C:\Program Files (x86)\Corel\CUH\v2\CUH.exe
+
+07/15/24 09:48:20   PCU_HD started
+07/15/24 09:48:20   GLHDID started
+07/15/24 09:48:20   CIMSGD elapsed time: 0.000 seconds
+07/15/24 09:48:20   MS::Init elapsed time: 0.000 seconds
+07/15/24 09:48:20   CUH: Init msgsys!
+07/15/24 09:48:20   CUH launched with -resume!
+07/15/24 09:48:20   GLHDID elapsed time: 0.046 seconds
+07/15/24 09:48:20   PCU_HD elapsed time: 0.046 seconds
+07/15/24 10:03:20   MS::CP started
+07/15/24 10:03:20   MS::CP:MD:CPC started
+07/15/24 10:03:20   MS::CP:MD:CPC:MU:VIC started
+07/15/24 10:03:20   MS::CP:MD:CPC:MU:VIC elapsed time: 0.016 seconds
+07/15/24 10:03:20   HTTP::CONNECTORG started
+07/15/24 10:03:20   WPCB:init1 started
+07/15/24 10:03:20   HTTP::CONNECTORG elapsed time: 0.015 seconds
+07/15/24 10:03:20   In IsInternetConnected - strURL=https://mc.corel.com/servlet/MessageCenterServer, Return=true, Reason=0, Error:0, WSAError=0
+07/15/24 10:03:20   MU::CKIT elapsed time: 0.015 seconds
+07/15/24 10:03:20   PCU version : 13.0.0.659
+07/15/24 10:03:20   WPCB:genin started
+07/15/24 10:03:20   WPCB:genin elapsed time: 0.047 seconds
+07/15/24 10:03:20   WPCB:init1 elapsed time: 0.094 seconds
+07/15/24 10:03:20   MU::USI started
+07/15/24 10:03:20   MU::USI:BSI started
+07/15/24 10:03:20   MU::USI:BSI:CICT started
+07/15/24 10:03:20   MU::USI:BSI:CICT elapsed time: 0.000 seconds
+07/15/24 10:03:20   MP::GAP started
+07/15/24 10:03:20   MP::GAP elapsed time: 0.000 seconds
+07/15/24 10:03:20   MU::USI:BSI elapsed time: 0.000 seconds
+07/15/24 10:03:20   MU::USI elapsed time: 0.016 seconds
+07/15/24 10:03:20   MS::CP:MD:CPC elapsed time: 0.141 seconds
+07/15/24 10:03:20   MS::CP elapsed time: 0.141 seconds
+07/15/24 10:03:20   CSL started
+07/15/24 10:03:20   WPCB:init1 started
+07/15/24 10:03:20   PCU version : 13.0.0.659
+07/15/24 10:03:20   WPCB:genin started
+07/15/24 10:03:20   Error, XML file could not be found: C:\ProgramData\Corel\Messages\540111147_410003\en\MessageCache1\Workflow\WorkflowMessages.xml
+07/15/24 10:03:20   WPCB:genin elapsed time: 0.015 seconds
+07/15/24 10:03:20   WPCB:init1 elapsed time: 0.031 seconds
+07/15/24 10:03:20   CSL elapsed time: 0.031 seconds
+07/15/24 10:03:20   CSL started
+07/15/24 10:03:20   WPCB:init1 started
+07/15/24 10:03:20   PCU version : 13.0.0.659
+07/15/24 10:03:20   WPCB:genin started
+07/15/24 10:03:20   Error, XML file could not be found: C:\ProgramData\Corel\Messages\540227504_999923\en\MessageCache1\Workflow\WorkflowMessages.xml
+07/15/24 10:03:20   WPCB:genin elapsed time: 0.016 seconds
+07/15/24 10:03:20   WPCB:init1 elapsed time: 0.016 seconds
+07/15/24 10:03:20   CSL elapsed time: 0.016 seconds
+07/15/24 10:03:20   VA started
+07/15/24 10:03:20   VA elapsed time: 0.000 seconds
+07/15/24 10:03:20   VA started
+07/15/24 10:03:20   VA elapsed time: 0.000 seconds
+07/15/24 10:03:20   VA started
+07/15/24 10:03:20   VA elapsed time: 0.000 seconds
+07/15/24 10:03:20   MD started
+07/15/24 10:03:20   MD:ST started
+07/15/24 10:03:20   MP::GAP started
+07/15/24 10:03:20   MP::GAP elapsed time: 0.000 seconds
+07/15/24 10:03:20   MD:ST elapsed time: 0.000 seconds
+07/15/24 10:03:20   MD elapsed time: 0.328 seconds
+07/15/24 10:03:21   CUH: No messages to display! Exiting.
+07/15/24 10:03:21   CTTH:CT started
+07/15/24 10:03:22   CTTH:CT schedule create success
+07/15/24 10:03:22   CTTH:CT elapsed time: 0.026 seconds
+07/15/24 10:03:22   CTTH:CT Success: 1
+07/15/24 10:03:22   CUH: Uninit msgsys!
+07/15/24 10:03:22   MS::RL started
+07/15/24 10:03:22   MD::RL started
+07/15/24 10:03:22   MU:CTT started
+07/15/24 10:03:22   MU:CTT elapsed time: 0.000 seconds
+07/15/24 10:03:22   MD::RL elapsed time: 0.015 seconds
+07/15/24 10:03:22   MS::RL elapsed time: 0.015 seconds

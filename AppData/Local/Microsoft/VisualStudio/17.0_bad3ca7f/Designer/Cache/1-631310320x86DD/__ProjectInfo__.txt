@@ -1,0 +1,12 @@
+ProjectGuid=7c359fb9-e8d1-478c-a056-a9554d5d9e7e
+SurfaceProcessIdentifier=66dfde9e-33ef-4236-89ea-b64cbb6140ae
+Architecture=x86
+Configuration=Debug
+Language=CSharp
+ShadowCopyType=PlatformOnly
+ShadowCopyWorkerType=WpfHostShadowCopyWorker
+FrameworkRuntimeName=.NETFramework
+FrameworkRuntimeVersion=4.0.30319.42000
+PlatformIdentifier=Windows,7.0;Managed;.NETFramework,4.7.2;;WpfFramework
+FrameworkRuntimeAssemblyVersion=
+TelemetrySessionId=b62ecd10-47ea-4b90-80d2-b24c775ce00f

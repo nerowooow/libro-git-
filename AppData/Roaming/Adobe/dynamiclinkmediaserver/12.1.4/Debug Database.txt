@@ -1,0 +1,14 @@
+AudioPrefetchDefaultTime	2	2
+DvaMarshalRPCLogging	false	false
+IR.disableAVX	false	false
+IR.disableAVX2	false	false
+ImporterMXF.DecodeQueueCPUWeight	4	4
+ImporterRED_EnableRRX	true	true
+MC.AudioRenderer.ComplexityBeforeRender	200	200
+MC.BE.AddDocIDOnImport	false	
+ML.EnableDiskCache	false	false
+ML.LoadTestingPluginsAtStartup	false	false
+ML.MaxPlaybackSpeed	32	32
+QT.ForceReferenceMoviesToImporterQuickTime	false	false
+REDRocketCompletelyDisabled	false	false
+REDRocketMaximumNumberOfCardsToUse	0	0

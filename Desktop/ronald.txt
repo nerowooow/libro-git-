@@ -1,0 +1,75 @@
+
+/*int numero1 =23;
+int numero2 = 3;
+int suma = numero1 + numero2;
+int resta = numero1 - numero2;
+int multiplicacion = numero1 * numero2;
+Console.WriteLine("suma="+suma);
+Console.WriteLine("resta="-=resta);
+
+Console.WriteLine("multiplicacion="*multiplicacion);
+Console.WriteLine();*/
+
+/*Console.WriteLine("ingrese el primer numero");
+String dato = Console.ReadLine();
+//double numero1=Console.todouble (dato);
+int numero1=int.Parse(dato);
+Console.WriteLine("Ingrese el segundo numero");
+int numero2 = int.Parse(Console.ReadLine());
+
+double numero3 = numero1 - numero2;
+Console.WriteLine("La respuesta de la suma es:")*/
+
+//declaracion de variables
+
+/*int x;
+double res_a,res_b,res_c,res_d;
+Console.WriteLine("ingrese un numero");
+x=Convert.ToInt32(Console.ReadLine());
+
+res_c =(x + -2) *(20 / 10);
+Console.WriteLine("La respuesta de la c es: " + res_c);
+
+res_a = -6 + x * 5;
+res_b = (13 - 2) * 2;
+res_d = (12 + x) / (5 - 4);
+Console.WriteLine("La respuesta de la a es: " + res_a);
+Console.WriteLine("La respuesta de la b es: " + res_b);
+Console.WriteLine("La respuesta de la d es: " + res_d);*/
+
+/*int c = int.Parse(Console.ReadLine());
+int k = c + 273;
+double f = c * 18/10+32;
+
+Console.WriteLine("La cantidad de grados kelvin " + k);
+Console.WriteLine("la cantidad de grados celsius " + f);*/
+
+
+int n1 = 0, n2 = 0, n3 = 0, prom = 0;
+Console.WriteLine("calcular el promedio de tres numeros");
+Console.WriteLine("Ingresa el primer valor: ");
+n1 = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Ingresa el segundo Valor: ");
+n2 = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Ingresa el tercer valor: ");
+n3 = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("El promedio es: resultado");
+prom = Convert.ToInt32(Console.ReadLine());
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

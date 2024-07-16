@@ -1,0 +1,9 @@
+[7/10/2024, 18:15:4] === Logging started: 2024/07/10 18:15:04 ===
+[7/10/2024, 18:15:4] Executable: C:\Users\DELL\AppData\Local\Temp\458e4c4ca51249bdafaee37a6a335595\vs_setup_bootstrapper.exe v17.10.35027.167
+[7/10/2024, 18:15:4] --- logging level: standard ---
+[7/10/2024, 18:15:4] Directory 'C:\Users\DELL\AppData\Local\Temp\ea2b665aa8954139a3494fc345bb9a5a' has been selected for file extraction
+[7/10/2024, 18:15:4] Extracting files to: C:\Users\DELL\AppData\Local\Temp\ea2b665aa8954139a3494fc345bb9a5a
+[7/10/2024, 18:15:4] Extraction took 375 milliseconds
+[7/10/2024, 18:15:4] The entire Box execution exiting with result code: 0x0
+[7/10/2024, 18:15:4] Launched extracted application exiting with result code: 0x0
+[7/10/2024, 18:15:4] === Logging stopped: 2024/07/10 18:15:04 ===

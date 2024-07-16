@@ -1,0 +1,14 @@
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\Hoja de Informacion Nª8\Hoja de Informacion Nª8\bin\Debug\net6.0\Hoja de Informacion Nª8.exe
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\Hoja de Informacion Nª8\Hoja de Informacion Nª8\bin\Debug\net6.0\Hoja de Informacion Nª8.deps.json
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\Hoja de Informacion Nª8\Hoja de Informacion Nª8\bin\Debug\net6.0\Hoja de Informacion Nª8.runtimeconfig.json
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\Hoja de Informacion Nª8\Hoja de Informacion Nª8\bin\Debug\net6.0\Hoja de Informacion Nª8.dll
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\Hoja de Informacion Nª8\Hoja de Informacion Nª8\bin\Debug\net6.0\Hoja de Informacion Nª8.pdb
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\Hoja de Informacion Nª8\Hoja de Informacion Nª8\obj\Debug\net6.0\Hoja de Informacion Nª8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\Hoja de Informacion Nª8\Hoja de Informacion Nª8\obj\Debug\net6.0\Hoja de Informacion Nª8.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\Hoja de Informacion Nª8\Hoja de Informacion Nª8\obj\Debug\net6.0\Hoja de Informacion Nª8.AssemblyInfo.cs
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\Hoja de Informacion Nª8\Hoja de Informacion Nª8\obj\Debug\net6.0\Hoja de Informacion Nª8.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\Hoja de Informacion Nª8\Hoja de Informacion Nª8\obj\Debug\net6.0\Hoja de Informacion Nª8.dll
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\Hoja de Informacion Nª8\Hoja de Informacion Nª8\obj\Debug\net6.0\refint\Hoja de Informacion Nª8.dll
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\Hoja de Informacion Nª8\Hoja de Informacion Nª8\obj\Debug\net6.0\Hoja de Informacion Nª8.pdb
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\Hoja de Informacion Nª8\Hoja de Informacion Nª8\obj\Debug\net6.0\Hoja de Informacion Nª8.genruntimeconfig.cache
+C:\Users\DELL\Documents\herramientas proyecto turno diurno Deyen\Hoja de Informacion Nª8\Hoja de Informacion Nª8\obj\Debug\net6.0\ref\Hoja de Informacion Nª8.dll
